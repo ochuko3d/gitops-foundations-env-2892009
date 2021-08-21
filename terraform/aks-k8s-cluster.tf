@@ -1,5 +1,4 @@
 resource "random_pet" "prefix" {}
-##demo test##
 terraform {
   required_providers {
     azurerm = {
